@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31808.319
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeComplexity", "TimeComplexity\TimeComplexity.csproj", "{AC7D4E3C-D622-4989-AB75-D3FBA9D49482}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC7D4E3C-D622-4989-AB75-D3FBA9D49482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC7D4E3C-D622-4989-AB75-D3FBA9D49482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC7D4E3C-D622-4989-AB75-D3FBA9D49482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC7D4E3C-D622-4989-AB75-D3FBA9D49482}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81BFBBB3-E61F-4389-9B43-7277E2D783CC}
+	EndGlobalSection
+EndGlobal
