@@ -4,7 +4,7 @@
 //Debugging Excercise
 
 //maintain max as 999 and # of elements at 30
-int[] lint = GenListInt(255, 30);
+int[] lint = GenListInt(999, 30);
 
 //disp list of ints
 foreach (var a in lint)
@@ -26,31 +26,13 @@ int[] GenListInt(int max, int num)
     return test2;
 }
 Console.WriteLine("enter a character");
-int search = System.Console.Read();
 
-//Console.Write("find value: ");
-while (search != 0)
-{
-    
-    string outArray = binarySearch(lint, search);
-    Console.WriteLine(outArray);
-    //Console.WriteLine("enter a character");
-    //Console.ReadLine();
-    //search = System.Console.Read();
-    
-    //Console.WriteLine(outArray);
-lint = GenListInt(255, 30);
-    foreach (var a in lint)
-    {
-        Console.WriteLine(a);
-    }
-    
-    search = System.Console.Read();
-} 
+int search = Console.Read();
+string outArray = binarySearch(lint, search);
+Console.WriteLine("\nIndex: " + outArray);
 
-//Console.WriteLine("search: " + search);
-//int.TryParse(Console.ReadLine(), out search);
 
+ 
 
 
 string binarySearch(int[] inputArray, int key)
@@ -67,14 +49,12 @@ string binarySearch(int[] inputArray, int key)
         else if (key <= inputArray[mid])
         {
             max = mid-1;
-            //mid = (min + max) / 2;
-            //binarySearch(inputArray, key);
+            
         }
         else
         {
             min = mid+1;
-            //mid = (max + min) / 2;
-            //binarySearch(inputArray, key);
+            
         }
     }
     return "No Element Found";

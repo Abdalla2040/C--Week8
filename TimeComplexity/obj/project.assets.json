@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\aple3\\.nuget\\packages\\": {}
+    "C:\\Users\\almohamed\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aple3\\OneDrive\\Desktop\\CSCDebugChallenge\\TimeComplexity\\TimeComplexity.csproj",
+      "projectUniqueName": "C:\\Users\\almohamed\\Desktop\\C--Week8\\TimeComplexity\\TimeComplexity.csproj",
       "projectName": "TimeComplexity",
-      "projectPath": "C:\\Users\\aple3\\OneDrive\\Desktop\\CSCDebugChallenge\\TimeComplexity\\TimeComplexity.csproj",
-      "packagesPath": "C:\\Users\\aple3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aple3\\OneDrive\\Desktop\\CSCDebugChallenge\\TimeComplexity\\obj\\",
+      "projectPath": "C:\\Users\\almohamed\\Desktop\\C--Week8\\TimeComplexity\\TimeComplexity.csproj",
+      "packagesPath": "C:\\Users\\almohamed\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\almohamed\\Desktop\\C--Week8\\TimeComplexity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\aple3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\almohamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
