@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ricke\\Desktop\\C# 2\\TimeComplexity\\TimeComplexity\\TimeComplexity.csproj": {}
+    "C:\\Users\\aple3\\OneDrive\\Desktop\\CSCDebugChallenge\\TimeComplexity\\TimeComplexity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ricke\\Desktop\\C# 2\\TimeComplexity\\TimeComplexity\\TimeComplexity.csproj": {
+    "C:\\Users\\aple3\\OneDrive\\Desktop\\CSCDebugChallenge\\TimeComplexity\\TimeComplexity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ricke\\Desktop\\C# 2\\TimeComplexity\\TimeComplexity\\TimeComplexity.csproj",
+        "projectUniqueName": "C:\\Users\\aple3\\OneDrive\\Desktop\\CSCDebugChallenge\\TimeComplexity\\TimeComplexity.csproj",
         "projectName": "TimeComplexity",
-        "projectPath": "C:\\Users\\ricke\\Desktop\\C# 2\\TimeComplexity\\TimeComplexity\\TimeComplexity.csproj",
-        "packagesPath": "C:\\Users\\ricke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ricke\\Desktop\\C# 2\\TimeComplexity\\TimeComplexity\\obj\\",
+        "projectPath": "C:\\Users\\aple3\\OneDrive\\Desktop\\CSCDebugChallenge\\TimeComplexity\\TimeComplexity.csproj",
+        "packagesPath": "C:\\Users\\aple3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aple3\\OneDrive\\Desktop\\CSCDebugChallenge\\TimeComplexity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ricke\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aple3\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

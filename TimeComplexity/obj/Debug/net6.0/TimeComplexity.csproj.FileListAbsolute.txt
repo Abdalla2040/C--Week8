@@ -13,3 +13,18 @@ C:\Users\ricke\Desktop\C# 2\TimeComplexity\TimeComplexity\obj\Debug\net6.0\TimeC
 C:\Users\ricke\Desktop\C# 2\TimeComplexity\TimeComplexity\obj\Debug\net6.0\ref\TimeComplexity.dll
 C:\Users\ricke\Desktop\C# 2\TimeComplexity\TimeComplexity\obj\Debug\net6.0\TimeComplexity.pdb
 C:\Users\ricke\Desktop\C# 2\TimeComplexity\TimeComplexity\obj\Debug\net6.0\TimeComplexity.genruntimeconfig.cache
+C:\Users\aple3\OneDrive\Desktop\CSCDebugChallenge\TimeComplexity\bin\Debug\net6.0\TimeComplexity.exe
+C:\Users\aple3\OneDrive\Desktop\CSCDebugChallenge\TimeComplexity\bin\Debug\net6.0\TimeComplexity.deps.json
+C:\Users\aple3\OneDrive\Desktop\CSCDebugChallenge\TimeComplexity\bin\Debug\net6.0\TimeComplexity.runtimeconfig.json
+C:\Users\aple3\OneDrive\Desktop\CSCDebugChallenge\TimeComplexity\bin\Debug\net6.0\TimeComplexity.dll
+C:\Users\aple3\OneDrive\Desktop\CSCDebugChallenge\TimeComplexity\bin\Debug\net6.0\TimeComplexity.pdb
+C:\Users\aple3\OneDrive\Desktop\CSCDebugChallenge\TimeComplexity\obj\Debug\net6.0\TimeComplexity.csproj.AssemblyReference.cache
+C:\Users\aple3\OneDrive\Desktop\CSCDebugChallenge\TimeComplexity\obj\Debug\net6.0\TimeComplexity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aple3\OneDrive\Desktop\CSCDebugChallenge\TimeComplexity\obj\Debug\net6.0\TimeComplexity.AssemblyInfoInputs.cache
+C:\Users\aple3\OneDrive\Desktop\CSCDebugChallenge\TimeComplexity\obj\Debug\net6.0\TimeComplexity.AssemblyInfo.cs
+C:\Users\aple3\OneDrive\Desktop\CSCDebugChallenge\TimeComplexity\obj\Debug\net6.0\TimeComplexity.csproj.CoreCompileInputs.cache
+C:\Users\aple3\OneDrive\Desktop\CSCDebugChallenge\TimeComplexity\obj\Debug\net6.0\TimeComplexity.dll
+C:\Users\aple3\OneDrive\Desktop\CSCDebugChallenge\TimeComplexity\obj\Debug\net6.0\refint\TimeComplexity.dll
+C:\Users\aple3\OneDrive\Desktop\CSCDebugChallenge\TimeComplexity\obj\Debug\net6.0\TimeComplexity.pdb
+C:\Users\aple3\OneDrive\Desktop\CSCDebugChallenge\TimeComplexity\obj\Debug\net6.0\TimeComplexity.genruntimeconfig.cache
+C:\Users\aple3\OneDrive\Desktop\CSCDebugChallenge\TimeComplexity\obj\Debug\net6.0\ref\TimeComplexity.dll
